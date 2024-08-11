@@ -1,1 +1,3 @@
-print("Hello World")
+a = "mthrfuckr"
+
+print("Hello World", a)
