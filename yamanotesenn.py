@@ -1,0 +1,1 @@
+print("AWS SAA-03合格")
