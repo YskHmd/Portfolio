@@ -2,4 +2,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 # Create your views here.
 def helloworldappview(request):
-    return HttpResponse('aaaaaa')
+    return HttpResponse('you seeing apps view ')
